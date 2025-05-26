@@ -1,5 +1,8 @@
 # all HW/labs projects
 
+Description of HW colab notebooks
+
+if you see this text, there is more to upload
 
 ## lab03_poetry_generation - poem generation task
 
