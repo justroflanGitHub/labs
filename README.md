@@ -32,3 +32,6 @@ Description of HW colab notebooks
 2. speech-to-text
 3. text-to-speech
 
+## classic_text_classification.ipynb
+
+## bert_for_text_classification.ipynb
