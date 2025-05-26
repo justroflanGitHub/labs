@@ -1,4 +1,4 @@
-# all HW/labs projects
+# All HW/labs projects
 
 Description of HW colab notebooks
 
