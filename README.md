@@ -4,7 +4,12 @@ Description of HW colab notebooks
 
 !!!! if you see this text, there is more to upload !!!!
 
-## lab03_poetry_generation - poem generation task
+## lab02_boosting_and_explanation.ipynb - Gradient boosting on temporal data and feature importances
+
+1. catboost
+2. optuna - hyperparameter tuning
+
+## lab03_poetry_generation.ipynb - poem generation task
 
 1. token_to_idx, idx_to_token = create_tokenizer
 2. SimpleRNN
