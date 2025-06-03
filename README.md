@@ -2,7 +2,6 @@
 
 Description of HW colab notebooks
 
-!!!! if you see this text, there is more to upload !!!!
 
 ## lab02_boosting_and_explanation.ipynb - Gradient boosting on temporal data and feature importances
 
